@@ -17,7 +17,7 @@ This repository includes reusable Codex skills under `skills/`.
 From Codex:
 
 ```text
-[$landppt-ppt-generation] 生成一个 12 页、主题为人类何时毁灭的开启联网搜索的 PPT，并返回分享链接
+[$landppt-ppt-generation] 生成一个 12 页、主题为你想创建的任意 PPT，并返回分享链接
 ```
 
 Directly (if Python is available):
