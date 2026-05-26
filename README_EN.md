@@ -15,7 +15,7 @@
 
 If you're interested in my projects or have suitable collaboration opportunities, feel free to reach out!
 
-[![Email](https://img.shields.io/badge/_Email-ai%40yydsapp.com-blue?style=for-the-badge)](mailto:ai@yydsapp.com)
+
 
 ---
 
