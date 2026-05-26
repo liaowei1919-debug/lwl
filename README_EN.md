@@ -583,18 +583,8 @@ A: For production, use `docker compose up -d --build` with the bundled `docker-c
 ### Q: Which narration providers are supported?
 A: Edge-TTS is supported by default. You can also configure ComfyUI Qwen3-TD and upload reference audio for voice-cloning style workflows.
 
-##  License
-
-This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
 
-##  Contact Us
-
-- **Project Homepage**: https://github.com/sligter/LandPPT
-- **Issue Reporting**: https://github.com/sligter/LandPPT/issues
-- **Discussions**: https://github.com/sligter/LandPPT/discussions
-
-![image](https://jsd.onmicrosoft.cn/gh/mydracula/image@master/20260515/9c2bb1e3f67945f3b147181d6351eaf0.png)
 ---
 
 <div align="center">
