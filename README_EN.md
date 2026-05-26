@@ -522,21 +522,7 @@ Additional notes:
 - **python-pptx / dom-to-pptx**: Image-based PPTX export and speaker-notes injection
 - **Edge-TTS / ComfyUI / FFmpeg**: Narration audio, subtitles, and video export pipeline
 
-##  Contributing
 
-We welcome all forms of contributions!
-
-### How to Contribute
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-For details, please see [Contributing Guide](CONTRIBUTING.md).
-
-### Reporting Issues
-If you find bugs or have feature suggestions, please create a new issue on the [Issues](https://github.com/sligter/LandPPT/issues) page.
 
 ##  FAQ
 
