@@ -4,7 +4,7 @@ This repository includes reusable Codex skills under `skills/`.
 
 ## Available
 
-- `landppt-ppt-generation`
+- `ppt-generation`
   - Path: `skills/landppt-ppt-generation/SKILL.md`
   - Purpose: End-to-end LandPPT PPT generation and post-edit operations via user API key.
   - Includes:
