@@ -571,18 +571,6 @@ A: Fully supports local deployment, can use Docker or direct installation. Suppo
 ### Q: How to export PPTX format?
 A: Need to configure `APRYSE_LICENSE_KEY`, then select PPTX format in export options.
 
-### Q: How do I choose between standard PPTX and image-based PPTX?
-A: Standard PPTX depends on `APRYSE_LICENSE_KEY` and is better when you want to keep editing the deck. Image-based PPTX embeds rendered slide images, which preserves complex CSS, icons, and special layouts better, but slide elements are typically no longer editable.
-
-### Q: How do I generate a public share link?
-A: Use the share action in the project editor or call `POST /api/projects/{project_id}/share/generate`. Shared URLs use the `/share/{share_token}` pattern and can be disabled later via `share/disable`.
-
-### Q: How do I run development mode vs production compose?
-A: For production, use `docker compose up -d --build` with the bundled `docker-compose.yml`. For local development, use `docker compose -f docker-compose-dev.yaml up -d --build` to enable source mounts and hot reload.
-
-### Q: Which narration providers are supported?
-A: Edge-TTS is supported by default. You can also configure ComfyUI Qwen3-TD and upload reference audio for voice-cloning style workflows.
-
 
 
 ---
